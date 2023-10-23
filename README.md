@@ -9,12 +9,11 @@ WUS city search是一个城市综合信息查询系统，基于SpringBoot + Vue�
 项目已在个人服务器部署，地址：http://47.115.205.56:5051/
 
 #### 主页
-
+![image](https://github.com/novelvast/WUScity/assets/113240184/0468c249-034b-402e-9012-659aa08bdd49)
 
 
 #### 结果展示页
-
-
+![image](https://github.com/novelvast/WUScity/assets/113240184/b8744bbf-c04e-41bc-a9b8-8dc03ae357c2)
 
 
 
