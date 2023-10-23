@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@vuemap/vue-amap": "^2.0.23",
+    "axios": "^1.5.1",
+    "element-plus": "^2.4.0",
+    "vue": "^3.3.4",
+    "vue-amap": "^0.5.10",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "sass": "^1.69.3",
+    "vite": "^4.4.9"
+  }
+}
